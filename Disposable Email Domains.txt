@@ -1,4 +1,3 @@
-wsb-delta.ru
 0-mail.com
 07-izvestiya.ru
 07-vesti.ru
@@ -65,6 +64,7 @@ wsb-delta.ru
 30minutenmail.eu
 30mot.ru
 30rip.ru
+30set.ru
 33bit.ru
 33mail.com
 35bit.ru
@@ -173,6 +173,7 @@ accebay.site
 accmt-servicefundsprefer.com
 accounts4sell.com
 acentri.com
+active1-accounts1.com
 adam.com
 adamhoward.com
 addimail.top
@@ -192,6 +193,7 @@ ahk.jp
 ahyars.site
 aidshops.ru
 aim-v.ru
+aink.gq
 airballons.ru
 aircln.ru
 airport-atirau.ru
@@ -207,6 +209,7 @@ alebas.ru
 alekfamili.ru
 alekfamily.ru
 aleks-berlev.ru
+alemalakra.com
 alessia1818.site
 alexhorton.ru
 alfapaper.ru
@@ -234,13 +237,16 @@ amt3security.com
 amuweb.com
 amwaybitva.ru
 anadyr-airport.ru
+anakjembutad.cf
 anakjembutad.ga
 anakjembutad.gq
 anakjembutad.ml
 anakjembutad.tk
 anaploxo.cf
 anaploxo.ga
+anaploxo.gq
 anaploxo.ml
+anaploxo.tk
 anappthat.com
 andrey-simki.ru
 anellomom.ru
@@ -276,6 +282,7 @@ antispammail.de
 antistream.cf
 antistream.gq
 antistream.ml
+antistream.tk
 antistress-raskraski.ru
 antonietta1818.site
 apartcombo.ru
@@ -353,19 +360,23 @@ bagrgallery.ru
 baikal-autotravel.ru
 bakhaus.ru
 bandamn.ru
+bandband1.com
 banikata.ru
 bank-opros1.ru
 bankomatt.ru
 bankovskaya-karta-tele2.ru
 banks-review.ru
 bannerko.ru
+baomoi.site
 baraccudacoach.ru
 barbarrianking.com
 bardecor.ru
 barenshop.ru
+basurmagizent01.com
 battle-royale-games.ru
 baxomale.ht.cx
 bazaorg.ru
+bcaoo.com
 bcedetyam.ru
 bcedetyam1.ru
 bcedetyam2.ru
@@ -379,6 +390,7 @@ beed.ml
 beefmilk.com
 beibleid.ru
 beitmak.ru
+belisatu.net
 belorus-kosmetix.ru
 bemaxi.com
 benefit-badgal.ru
@@ -441,6 +453,7 @@ bitcoini-bestchange.ru
 bitconecct.ru
 bitpost.site
 biztime.tk
+bjmd.cf
 black-latte24.ru
 black-magi.ru
 black-magick.ru
@@ -454,6 +467,7 @@ blackmagick.ru
 blackmarket.to
 blackprivoroti.ru
 bladesmail.net
+blan.tech
 bloatbox.com
 block-account.ru
 blog-stanislav.ru
@@ -493,6 +507,7 @@ boxppy.ru
 bqcoffee.ru
 brainonfire.net
 brandlinza.ru
+bratfond.ru
 bravesite-info.ru
 bravod.ru
 breakthru.com
@@ -537,6 +552,7 @@ buyad.ru
 buymoreplays.com
 buyusedlibrarybooks.org
 buzstat.com
+buzzvirale.xyz
 bykov-stroj.ru
 byom.de
 bytik-flower.ru
@@ -572,6 +588,7 @@ centermail.com
 centermail.net
 centr-fejerverkov28.ru
 centr-luch.ru
+cftrextriey-manage1.com
 chammy.info
 chanelkirov43.ru
 change-bitcoin.ru
@@ -657,6 +674,7 @@ cryptontrade.ga
 crystalrp.ru
 cs-go-club.ru
 csgo-market.ru
+cspointblank.com
 cubiclink.com
 culinary-rus.ru
 cult2day.ru
@@ -786,6 +804,7 @@ dolinak.ru
 domainaing.cf
 domainaing.ga
 domainaing.gq
+domainaing.ml
 domainaing.tk
 domavnegoroda.ru
 dome-camp.ru
@@ -929,6 +948,7 @@ emkei.ga
 emkei.gq
 emkei.ml
 emkei.tk
+empek.tk
 empiremail.de
 emscentr.ru
 emstjzh.com
@@ -974,6 +994,7 @@ eywa-stroy.ru
 f-nacarisk.ru
 f1kzc0d3.cf
 f1kzc0d3.ga
+f1kzc0d3.gq
 f1kzc0d3.ml
 f1kzc0d3.tk
 facebook-arenda.ru
@@ -985,6 +1006,7 @@ facebookmail.gq
 facebookmail.ml
 fades-sad.ru
 faecesmail.me
+fahmi-amirudin.tech
 fake-box.com
 fake-mail.cf
 fake-mail.ga
@@ -1046,6 +1068,8 @@ fikrinhdyh.cf
 fikrinhdyh.ga
 fikrinhdyh.gq
 fikrinhdyh.ml
+fikrinhdyh.tk
+filebyter.com
 film-blog.biz
 filmsseller1.ru
 filzmail.com
@@ -1091,6 +1115,7 @@ forsgame.ru
 fortnitebuy.ru
 fortnitehub.ru
 forum-edu.ru
+foryoumyfriend.ru
 fotosta.ru
 foxopros.ru
 fr33mail.info
@@ -1100,6 +1125,7 @@ free-email.cf
 free-email.ga
 free-store.ru
 freecoolemail.com
+freeforall.site
 freemail.ms
 freemails.cf
 freemails.ga
@@ -1131,6 +1157,7 @@ g00g13.tk
 g2020.ru
 gabekey.ru
 gacas-1dax.ru
+gakkurang.com
 galamat.ru
 gali-village.ru
 galismarda.com
@@ -1174,6 +1201,7 @@ getairmail.gq
 getairmail.ml
 getairmail.tk
 gethotlink.com
+getinsuranceforyou.com
 getmails.eu
 getonemail.com
 getonemail.net
@@ -1182,8 +1210,10 @@ gg-maramont.ru
 ghosttexter.de
 giantmail.de
 giftyello.ga
+giftyello.gq
 gimsa-renamun.ru
 girl-nice.com
+girlncool.com
 girlsundertheinfluence.com
 gishpuppy.com
 givemoney2018.ru
@@ -1200,6 +1230,7 @@ gmial.com
 gmx.com
 gnomi.ru
 goacc.ru
+gobo-projectors.ru
 godsale.ru
 goemailgo.com
 gold-recepts.ru
@@ -1323,6 +1354,7 @@ hello-volgograd.ru
 hellodream.mobi
 helpjobs.ru
 hemohim-atomy.ru
+hendrikarifqiariza.cf
 hendrikarifqiariza.ga
 hendrikarifqiariza.gq
 hendrikarifqiariza.ml
@@ -1335,6 +1367,7 @@ hidemail.de
 hidemyass.com
 hidzz.com
 hikitas-rnim.ru
+himail.online
 hips-trainer.ru
 historidie.ru
 hitale.ru
@@ -1410,6 +1443,7 @@ ikra-ufa.ru
 ilikespam.com
 ilove39.ru
 ilzida-ismagilovna.ru
+im-irsyad.tech
 imails.info
 imavex.ru
 imexdia.com
@@ -1441,10 +1475,12 @@ ineedtourinate.info
 inf39.ru
 infocom.zp.ua
 infomarketer.ru
+infoprice.tech
 information-account.net
 ingduh.com
 inibuatkhoirul.cf
 inibuatsgb.cf
+inibuatsgb.ga
 inibuatsgb.gq
 inibuatsgb.tk
 inipunyakitasemua.cf
@@ -1456,8 +1492,10 @@ inoutmail.de
 inoutmail.eu
 inoutmail.info
 inoutmail.net
+INSERT INTO `xf_ban_email` (`banned_email`) VALUES
 insorg-mail.info
 insta-ground.ru
+instaforex-info.ru
 instamaniya.ru
 instancemail.net
 instant-mail.de
@@ -1521,6 +1559,7 @@ izobretateli59.ru
 izolink.com
 jabkagames.ru
 jamaw-ewad.ru
+jancuk.tech
 janym.ru
 jblacust.ru
 jdasdhj.cf
@@ -1528,6 +1567,7 @@ jdasdhj.ga
 jdasdhj.gq
 jdasdhj.ml
 jeemboo.ru
+jembotbrodol.com
 jesus-shop.ru
 jetable.com
 jetable.fr.nf
@@ -1540,6 +1580,7 @@ jnxjn.com
 jobbikszimpatizans.hu
 jobsfind.ru
 jocerset.ru
+johnrisky.tk
 johnrisky4u.cf
 johnrisky4u.ga
 johnrisky4u.gq
@@ -1603,6 +1644,7 @@ kdeos.ru
 kedrovskiy.ru
 keepmymail.com
 kejenx.com
+kembangpasir.website
 kenzo-official.ru
 keraorganica.ru
 kewkece.com
@@ -1645,6 +1687,7 @@ kolodec-legko.ru
 kolxo3nik.ru
 kolxo3pro.ru
 komkomp.ru
+kompakteruss.cf
 kondadra.ru
 kontaktniy-centr.ru
 konultant-jurist.ru
@@ -1731,6 +1774,7 @@ legionzoocentr.ru
 lehora.com
 lekarstvopodnogami.ru
 lenlinza.ru
+lenta.ru
 leon13.ru
 leonfamily.ru
 letmeeatspam.com
@@ -1749,6 +1793,7 @@ lifebyfood.com
 liga-kamcartit.ru
 light-beauty.ru
 light-marketing.ru
+likelucky.ru
 likeproekt.ru
 liketobuy.ru
 linea-stile.ru
@@ -1766,6 +1811,7 @@ lmao.com
 lnbtc.ru
 lncoin.ru
 loadby.us
+lockedsyz.com
 login-email.cf
 login-email.ga
 login-email.ml
@@ -1800,6 +1846,7 @@ m4ilweb.info
 ma2limited.com
 maboard.com
 madecassol78.ru
+madurahoki.com
 magazin-elok69.ru
 magi666.ru
 magicblock.ru
@@ -1907,6 +1954,7 @@ malishlandiya.ru
 mallfamily.ru
 maltsev2018.ru
 mama-bag-sochi.ru
+mamamintaemail.com
 mamin-shop.ru
 mammybagmoscow.ru
 mamsy-bags.ru
@@ -2062,6 +2110,7 @@ monsterblender.ru
 monumentmail.com
 moroz-it.ru
 morteinateb.xyz
+mortystore.cf
 mosmebelcentr.ru
 mother-russia.ru
 movietour.ru
@@ -2112,6 +2161,7 @@ myhagiasophia.com
 mylollitoys.ru
 mymail-in.net
 mymailoasis.com
+mymogensenonline.com
 mynetstore.de
 mypacks.net
 mypartyclip.de
@@ -2225,6 +2275,7 @@ noblepioneer.com
 nobulk.com
 noclickemail.com
 noemail.com
+nofocodobrasil.tk
 nogmailspam.info
 nomail.pw
 nomail.xl.cx
@@ -2274,11 +2325,13 @@ nowhere.org
 nowmymail.com
 nozala-company.ru
 nupagadi.ru
+nurdintv.com
 nurfuerspam.de
 nus.edu.sg
 nuzhnaeda18.ru
 nwldx.com
 nyagan-airport.ru
+nyanime.gq
 o-e-z.ru
 o-taxi31.ru
 o-tonarum.ru
@@ -2330,6 +2383,7 @@ olga9.ru
 olimp-case.ru
 oliva-patronage.ru
 omail.pro
+omdo.xyz
 omsvet.ru
 one-time.email
 oneoffemail.com
@@ -2374,13 +2428,17 @@ ourklips.com
 oursuperhealth.ru
 outime.ru
 outlawspam.com
+outletcheap.net
 over-craft.ru
 ovpn.to
 owlpic.com
 p-banlis.ru
 p-bonus.ru
+paharpurmim.ga
 paharpurmim.gq
 paharpurmim.ml
+paharpurmim.tk
+palingbaru.tech
 pancakemail.com
 panda-money1.ru
 pandafit.ru
@@ -2426,6 +2484,7 @@ petpal-sale.ru
 petspotkennels.com
 pfui.ru
 phentermine-mortgages-texas-holdem.biz
+phimtop1.tk
 phone-elkey.ru
 phone-victory.ru
 phonecase-tetris.ru
@@ -2510,6 +2569,7 @@ prtxw.com
 prtz.eu
 psychologist-prof.ru
 ptzprint.ru
+pubgm.website
 pudra-style.ru
 pukimay.ga
 pukimay.ml
@@ -2542,6 +2602,7 @@ rainbocorns.ru
 rainbow-vanilla.ru
 ramireshop.ru
 randomcsorg.ru
+rao-network.com
 rasprodazha365.ru
 rav-apsl.ru
 ravenom.ru
@@ -2606,6 +2667,7 @@ rfzaym.ru
 rhyta.com
 riba-4ok.ru
 richdi.ru
+rickifoodpatrocina.tk
 riddle.com
 rif-ramarew.ru
 rifkian.cf
@@ -2645,7 +2707,8 @@ rtrtr.com
 rtyreszxl.ru
 ru196595463.ru
 rubitcoini.ru
-ruby-keys.ru
+ruby-keys.ru');
+INSERT INTO `xf_ban_email` (`banned_email`) VALUES
 ruditnugnab.xyz
 ruffrey.com
 ruki-master.ru
@@ -2658,6 +2721,7 @@ russian-elka.ru
 russtavki.ru
 rust-inside.ru
 rustinside.ru
+ruu.kr
 rybalkovedenie.ru
 rzm-mebel.ru
 s-sakamas.ru
@@ -2691,6 +2755,7 @@ sar-asatun.ru
 saturnbet-official.ru
 saveuhealth.com
 sawas.ru
+saxophonexltd.com
 saynotospams.com
 sayyes-shop.ru
 sbash.ru
@@ -2710,10 +2775,10 @@ secure-mail.cc
 selfdestructingmail.com
 selfdestructingmail.org
 sellmine.ru
-semena-moskva.ru');
-INSERT INTO `xf_ban_email` (`banned_email`) VALUES
+semena-moskva.ru
 semogaderes.com
 sempuranadi.cf
+sempuranadi.ml
 sempuranadi.tk
 sendspamhere.com
 senseless-entertainment.com
@@ -2756,6 +2821,7 @@ shocknewsru.ru
 shop-horse.ru
 shop-konditer.ru
 shoping25.ru
+shopingmax.ru
 shopingmir.ru
 shopser.ru
 shoptumen.ru
@@ -2932,6 +2998,7 @@ spaml.com
 spaml.de
 spammail.com
 spammers.com
+spammingemail.com
 spammotel.com
 spamneggs.com
 spamobox.com
@@ -2977,6 +3044,7 @@ srubstroy35.ru
 sskstroy.ru
 ssoia.com
 ssst-zar.ru
+staffchat.tk
 stalingradd.ru
 stargentumcraft.ru
 starkaraoke.ru
@@ -3022,6 +3090,7 @@ stylist-volos.ru
 subgold.ru
 successclick.ru
 suhuempek.cf
+suhuempek.ga
 suhuempek.gq
 suhuempek.tk
 suhugatel.cf
@@ -3029,6 +3098,7 @@ suhugatel.ga
 suhugatel.gq
 suhugatel.ml
 suhugatel.tk
+suhusangar.ml
 sukaalkuma.com
 sunrice-shop.ru
 super-auswahl.de
@@ -3053,6 +3123,7 @@ svoyzarabotokvinternete.ru
 svsmoney.ru
 sweet-emotions.ru
 sweetxxx.de
+system-2123.com
 system-2125.com
 system-765.com
 t-shirtcasual.com
@@ -3133,6 +3204,7 @@ thc.st
 theangelhack.ru
 thecloudindex.com
 thegirlhot.com
+theglockneronline.com
 thehagiasophia.com
 theintim.ru
 thelimestones.com
@@ -3198,6 +3270,7 @@ topdropcase.ru
 topfreeemail.com
 tophit-mzg.ru
 toplinktap.ru
+toppieter.com
 topranklist.de
 toptrend777.ru
 topvidnow.com
@@ -3272,6 +3345,7 @@ trillianpro.com
 triton-service.ru
 trixtrax1.ru
 trixtrux1.ru
+trommlergroup.com
 truba-stout.ru
 trucmai.cf
 trucmai.tk
@@ -3318,10 +3392,12 @@ upak-vakuum.ru
 upakologiya.ru
 upbrellastore.ru
 upetreal.ru
+upgcsjy.com
 uplay-store.ru
 upliftnow.com
 uplipht.com
 uprsoft.ru
+uptodate.tech
 uralmaxx.ru
 uralsk-airport.ru
 urlina.ru
@@ -3369,6 +3445,7 @@ vestimed.ru
 vestnikao.ru
 vestniktm.ru
 vezdehod-rent.ru
+vgdbankrotstvo.ru
 vidchart.com
 videocorporation.ru
 viditag.com
@@ -3541,6 +3618,7 @@ x-runovosti.ru
 x-rutochka.ru
 x-vestnik.ru
 x.ip6.li
+x1-active-manager1.com
 x13x13x13.com
 x1cult.ru
 x1econ.ru
@@ -3558,6 +3636,7 @@ xiaomico.ru
 xiaomimiband03.ru
 xias-daman1.ru
 xmaily.com
+xn--90abvrccwbp.xn--p1acf
 xn--aboutmichellekely-d0c.com
 xn--mgbgvi3fi.com
 xoxox.cc
@@ -3574,6 +3653,7 @@ yaelahtodkokgitu.ml
 yaelahtodkokgitu.tk
 yahoo.com.ph
 yahoo.com.vn
+yahoomailio.com
 yakolhoznik.ru
 yandecompany.ru
 yandex.com
@@ -3591,6 +3671,7 @@ yep.it
 yertxenor.tk
 ygryiprodagi.ru
 ymail44.com
+ymail90.com
 ymobil.ru
 yogaisaboutyou.ru
 yogakovriki.ru
@@ -3623,6 +3704,7 @@ z-portfolio.ru
 z1p.biz
 za.com
 zagorodnyi-domik.ru
+zahuy.site
 zaimi-na-karty.ru
 zaimy-srochno.ru
 zakazat-okno.ru
@@ -3652,6 +3734,7 @@ zetmail.com
 zezis.ru
 zhidkiy-gazon.ru
 zipo1.cf
+zipo1.gq
 zipo1.ml
 zippymail.in
 zippymail.info
@@ -3680,25 +3763,3 @@ zyyu6mute9qn.cf
 zyyu6mute9qn.ml
 zyyu6mute9qn.tk
 zzz.com
-nurdintv.com
-bratfond.ru
-rickifoodpatrocina.tk
-inibuatsgb.ga
-outletcheap.net
-antistream.tk
-f1kzc0d3.gq
-rao-network.com
-30set.ru
-zahuy.site
-giftyello.gq
-belisatu.net
-cspointblank.com
-phimtop1.tk
-instaforex-info.ru
-shopingmax.ru
-staffchat.tk
-nofocodobrasil.tk
-alemalakra.com
-vgdbankrotstvo.ru
-mortystore.cf
-fikrinhdyh.tk
